@@ -1,0 +1,15 @@
+Visual review notes for MUTATRACK preview on 2026-04-17:
+
+1. The general visual language is landing correctly: the black background, thin forensic lines, red accent, and glass cards produce the intended biotech-editorial feel.
+2. The hero section is intentionally sparse because the primary headline and large CTA are hidden at opacity-0 per the brief. This preserves fidelity to the request but leaves the first viewport heavily weighted toward left-side metadata and lower cards.
+3. The About section reads strongly in the preview. The large "Detect / Classify / Act" headline, the white award badge, and the specimen image create the clearest premium moment on the page.
+4. Further validation is still needed for the lower sections, footer spacing, and FAQ interaction behavior.
+5. The Analyze section is working visually. The red-emphasized word in the heading, the three-column structure, and the stacked center cards match the requested lab-editorial direction.
+6. The Pipeline section also reads clearly. The white headline, red subheadline, and step cards with restrained spacing feel consistent with the chosen Biotech Brutalism system.
+7. Remaining items to verify: the statistics panel lower on the page, FAQ expansion behavior, CTA image balance, and footer density once the page is reviewed closer to the bottom.
+8. The statistics row is visually strong and legible. The oversized white numerals with red suffix accents preserve the editorial rhythm and make the data section feel appropriately high-contrast.
+9. The FAQ layout appears structurally correct. The left headline anchors the section well, and the first accordion item opens cleanly with readable body text.
+10. Final items still to inspect are the CTA block and footer at the very bottom of the page.
+11. The final CTA block is one of the strongest sections on the page. The generated orbital image supports the headline without overpowering it, and the red-emphasized word "mutation" lands clearly.
+12. The footer structure is clear and balanced. The four-column layout, muted supporting links, and compact social links are visually coherent with the rest of the site.
+13. Based on the full-page review, no blocking layout problems are visible. The only notable tradeoff is the intentionally hidden hero headline and CTA requested in the original brief, which makes the first viewport more understated than the later sections.
